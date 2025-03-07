@@ -40,7 +40,7 @@ All chats should include the following reference:
 > *This chat follows the **Witches' Path – Global Instructions Policy.**  
 > All responses must adhere to its guidelines unless explicitly overridden.*
 
-🔹 **Full Policy Document:** [Click here](https://github.com/Witches-Path/chat-gpt-data/blob/2b5ed7a32897c22137d8ef80a215f2508d00b9ee/gip.md)  
+🔹 **Full Policy Document:** [Link](https://raw.githubusercontent.com/Witches-Path/chat-gpt-data/2b5ed7a32897c22137d8ef80a215f2508d00b9ee/gip.md)  
 🔹 **Last Updated:** 07.03.2025  
 
 ---
